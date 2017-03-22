@@ -1,1 +1,1 @@
-<a name="http://m.jollychic.com">http://m.jollychic.com</a>
+<a href="http://m.jollychic.com">http://m.jollychic.com</a>

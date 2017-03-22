@@ -1,1 +1,1 @@
-http://m.jollychic.com   
+(http://m.jollychic.com)

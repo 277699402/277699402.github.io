@@ -1,1 +1,1 @@
-<a name="#relative_post">http://m.jollychic.com</a>
+<a name="http://m.jollychic.com">http://m.jollychic.com</a>
